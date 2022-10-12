@@ -2,7 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom'
-import ListUserComponent from './components/ListUserComponent';
+import ListUserComponent from './components/ListUserComponent/ListUserComponent';
 import HeaderComponent from './components/HeaderComponent';
 import FooterComponent from './components/FooterComponent';
 import CreateUserComponent from './components/CreateUserComponent';
